@@ -7,7 +7,7 @@ Steps to Host a Static Website using Docker and NGINX
 
     3.Extract the downloaded template and save it inside your project folder.
       Your folder structure should look like this:
-            static-website/
+            01-static-website/
                 └── static-website-template/
                 ├── index.html
                 └── (other files and folders)
