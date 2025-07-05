@@ -14,6 +14,10 @@ A simple project to serve a static website using the official NGINX Docker image
 Includes steps to download a free HTML template, write a Dockerfile, build an image, and run a container.  
 ➡️ [Go to project folder](./01-static-website)
 
+### 02 - API-Based Containerization with Node.js and Docker
+A simple REST API built using Node.js and Express, then containerized with Docker.
+Includes steps to initialize a Node.js project, write an API, create a Dockerfile, build an image, and run the container locally.
+➡️ [Go to project folder](./02-API-based-containerization)
 More projects coming soon...
 
 ---
