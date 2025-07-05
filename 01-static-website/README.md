@@ -1,4 +1,5 @@
 Steps to Host a Static Website using Docker and NGINX
+    
     1. Create a project folder, e.g., static-website.
 
     2. Download a free sample website template from a trusted source.
